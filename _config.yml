@@ -7,7 +7,7 @@
 
 # Site settings
 title: NIL
-email:eltshanli@gmail.com
+email: eltshanli@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts, reading notes and links about computer programming, by Li Jie.
 baseurl: "" # the subpath of your site, e.g. /blog
