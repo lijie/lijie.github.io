@@ -3,7 +3,7 @@ url: "lijie.github.io" # the base hostname & protocol for your site.
 title: "NIL"
 
 
-paginate: 3 #articles per page
+paginate: 8 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 

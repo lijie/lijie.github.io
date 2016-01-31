@@ -5,8 +5,6 @@ date:   2015-05-22 15:06:00 +0800
 categories: golang
 ---
 
-## Go Internals
-
 ### Container
 
 #### Slice
