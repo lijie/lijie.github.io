@@ -23,3 +23,13 @@ fdatasync不会同步被修改的metadata除非某个metadata会影响文件读�
 
 
 
+#### O_RSYNC
+
+感觉O_RSYNC的语义特别奇怪也没什么卵用, Linux并没有实现它.
+
+
+#### Standard File IO
+
+让我震惊的是, 标准文件IO其实是线程安全的, Linux提供了*_unlock的类标准IO来避免加锁开销.
+
+#### IO Scheduler
